@@ -1,4 +1,14 @@
+title: Your Site Title
+description: A brief description of your site
+theme: jekyll-theme-primer
+
 exclude:
   - node_modules
-  - dist
   - vendor
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - package.json
+  - package-lock.json
+  - yarn.lock
+  - ass4/node_modules/
